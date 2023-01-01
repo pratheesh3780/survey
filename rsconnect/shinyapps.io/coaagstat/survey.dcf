@@ -1,0 +1,13 @@
+name: survey
+title: survey
+username:
+account: coaagstat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7961659
+bundleId: 6687197
+url: https://coaagstat.shinyapps.io/survey/
+when: 1672555373.83967
+lastSyncTime: 1672555373.83969
+asMultiple: FALSE
+asStatic: FALSE
